@@ -21,5 +21,6 @@ function destructivelyaddElementToEndOfArray (warmArray, hotElement) {
 }
 function accessElementInArray (bigArray, indexkun) {
   console.log(bigArray[indexkun]);
+  return bigArray[indexkun];
   
 }
