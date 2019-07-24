@@ -12,6 +12,10 @@ function destructivelyAddElementToBeginningOfArray (secondArray, element) {
 }
 function addElementToEndOfArray (coolArray, icyElement) {
   var icyArray = [...coolArray, icyElement];  
-  return IcyArray;
+  return icyArray;
   
+}
+function destructivelyaddElementToEndOfArray (warmArray, hotElement) {
+  warmArray.push(hotElement);
+  return warmArray;
 }
