@@ -15,7 +15,7 @@ function addElementToEndOfArray (coolArray, icyElement) {
   return icyArray;
   
 }
-function destructivelyaddElementToEndOfArray (warmArray, hotElement) {
+function destructivelyAddElementToEndOfArray (warmArray, hotElement) {
   warmArray.push(hotElement);
   return warmArray;
 }
