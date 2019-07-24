@@ -19,3 +19,6 @@ function destructivelyaddElementToEndOfArray (warmArray, hotElement) {
   warmArray.push(hotElement);
   return warmArray;
 }
+function accessElementInArray (bigArray, ) {
+  
+}
